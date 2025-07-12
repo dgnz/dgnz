@@ -26,17 +26,6 @@ $(document).ready(function() {
 
 	if (siteSection == "single") {
 
-		$('body').append(`
-
-			<div class="footer">
-			<p>
-			<span>&copy; The Zedign House</span> | 
-			<span><a style="font-size:80%;" href="/privacy.html">Privacy Policy</a></span>
-			</p>
-			</div>
-
-		`);
-
 		// 	$('body').append(`
 
 		// <div><a href="../${zasID}.html">&lt; <a/></div>
